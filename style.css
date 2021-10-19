@@ -1,0 +1,46 @@
+.target {
+    width: 900px;
+    height: 600px;
+    background: #000;
+}
+
+.header {
+    width: 900px;
+    height: 200px;
+    background: orange;
+}
+.acum {
+    width: 900px;
+    height: 400px;
+    background: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.x {
+    width: 400px;
+    height: 300px;
+    background: aqua;
+}
+.xx {
+    width: 200px;
+    height: 300px;
+    background: rebeccapurple;
+}
+.one-block {
+    height: 50%;
+    background: aliceblue;
+}
+.two-block {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50%;
+    background: yellowgreen;
+}
+.kvad {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin: 5px;
+}
